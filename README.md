@@ -45,6 +45,9 @@
 
 ## Output
 
+![image](https://github.com/Subhikshaa13/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/118787344/fe904b7c-6284-4594-b02b-e5a03d0e1de7)
+
+
 
 ### Name:Subhikshaa M
 ### Register Number:212222230151 
